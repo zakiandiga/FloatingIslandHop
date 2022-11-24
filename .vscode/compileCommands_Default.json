@@ -1,0 +1,27 @@
+[
+	{
+		"file": "D:\\UnrealProject\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProject\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.205.rsp",
+		"directory": "D:\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProject\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProject\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.205.rsp",
+		"directory": "D:\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProject\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProject\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.205.rsp",
+		"directory": "D:\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProject\\ObstacleAssault\\Source\\ObstacleAssault\\Private\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProject\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.205.rsp",
+		"directory": "D:\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProject\\ObstacleAssault\\Source\\ObstacleAssault\\Public\\MovingPlatform.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealProject\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.205.rsp",
+		"directory": "D:\\Unreal\\UE_5.0\\Engine\\Source"
+	}
+]
