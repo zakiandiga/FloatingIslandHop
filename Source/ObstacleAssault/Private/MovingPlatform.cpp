@@ -56,7 +56,7 @@ void AMovingPlatform::MovePlatform(float DeltaTime)
 		FVector MoveDirection;
 		MoveDirection = PlatformVelocity.GetSafeNormal();
 		OriginLocation += MoveDirection * MaxDistanceMove;
-		SetActorLocation(OriginLocation); //make sure the actor start at new OriginLocation
+		SetActorLocation(OriginLocation);
 		PlatformVelocity *= -1;
 	}
 
@@ -70,7 +70,6 @@ void AMovingPlatform::MovePlatform(float DeltaTime)
 
 void AMovingPlatform::RotatePlatform(float DeltaTime)
 {
-	UE_LOG(LogTemp, Warning, TEXT("%s is rotating"), *PlatformName);
 	AddActorLocalRotation((RotationAxis * RotationSpeed) * DeltaTime);	
 }
 
